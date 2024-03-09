@@ -13,7 +13,9 @@ If you don't know what you're doing, I don't recommend following this guide.
 <u>Note:</u> Some of the firmwares were provided by Creality but have not yet been released publicly.
 
 <br />
+## Mods
 
+D3D K1 Master Mod List (https://docs.google.com/presentation/d/1GMZwEPHjKJ3IrpGRz07VVAv4h2vc6QOYyk7FDC-Pyls/mobilepresent?slide=id.g2aa49fcac6b_0_144)
 ## Wiki
 
 Guide is  available here: [Wiki](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki)
