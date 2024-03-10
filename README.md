@@ -4,6 +4,9 @@
 
 <img width="1102" src="https://github.com/Guilouz/Creality-K1-and-K1-Max/blob/main/images/Home/Home.png">
 
+# Factory Reset over SSH 
+https://guilouz.github.io/Creality-K1-Series/firmwares/reset-factory-settings/ 
+
 ## About
 
 This guide explains the whole process to root Creality K1, K1C and K1 Max and add good stuffs to your printer.
