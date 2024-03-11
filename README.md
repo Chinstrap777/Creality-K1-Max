@@ -2,6 +2,9 @@
 
 # Guilouz Installation Helper Script for Creality K1 Series
 
+(https://guilouz.github.io/Creality-K1-Series/helper-script/helper-script-installation/)
+<br />
+
 
 # Factory Reset over SSH 
 https://guilouz.github.io/Creality-K1-Series/firmwares/reset-factory-settings/ 
