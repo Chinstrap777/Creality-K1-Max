@@ -1,6 +1,6 @@
 # THIS IS A WIP THAT I PLAN ON CONVERTING TO A WIKI FOR THE K1 MAX
 
-# Installation Helper Script for Creality K1 Series
+# Guilouz Installation Helper Script for Creality K1 Series
 
 <img width="1102" src="https://github.com/Guilouz/Creality-K1-and-K1-Max/blob/main/images/Home/Home.png">
 
@@ -25,7 +25,7 @@ D3D K1 Master Mod List (https://docs.google.com/presentation/d/1GMZwEPHjKJ3IrpGR
 ## Wiki
 
 Guide is  available here: [Wiki](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki)
-
+Creality Wiki https://wiki.creality.com/en/k1-flagship-series
 <br />
 
 ## Credits
