@@ -32,9 +32,9 @@ If you don't know what you're doing, I don't recommend following this guide.
 
 ## Wiki
 
-Guide is  available here: [Wiki](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki)
+Guilouz's K1 Wiki is available here: [Wiki](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki)
 
-Creality Wiki (https://wiki.creality.com/en/k1-flagship-series)
+Creality Wiki: (https://wiki.creality.com/en/k1-flagship-series)
 
 <br />
 
